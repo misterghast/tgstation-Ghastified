@@ -1,0 +1,1 @@
+GLOBAL_LIST_EMPTY(occultism_item_groups)
